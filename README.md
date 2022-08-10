@@ -2,9 +2,9 @@
 - 💻 Estudando React.js
 
 <div>
-  <a href="https://beacons.ai/Juangabrieldevv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juangabrieldevv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juangabrieldevv&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://beacons.ai/Juangabrieldev1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juangabrieldev1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juangabrieldev1&layout=compact&langs_count=16&theme=dracula"/>
 
 ##
 
