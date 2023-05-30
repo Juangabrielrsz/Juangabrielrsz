@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ### Envie uma mensagem para entrar em contato ⤵️:
-<a href="https://www.linkedin.com/in/juangabrieldev/" target="_blank" alt="Linkedin">
+<a href="https://www.linkedin.com/in/juangabrieldev/"target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
 
