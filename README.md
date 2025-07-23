@@ -16,7 +16,6 @@
 
 
 ### Ferramentas💼:
-![Windows](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ### Envie uma mensagem para entrar em contato ⤵️:
